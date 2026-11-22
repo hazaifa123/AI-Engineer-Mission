@@ -1,4 +1,4 @@
-marks = 75
+marks = int(input("enter your marks"))
 
 if marks >= 90 and marks <= 100:
     print("A+")
